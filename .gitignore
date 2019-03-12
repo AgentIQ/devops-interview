@@ -1,0 +1,8 @@
+coverage
+node_modules
+npm-debug.log
+**/*.swp
+.idea/
+.DS_Store
+*zip
+tmp
