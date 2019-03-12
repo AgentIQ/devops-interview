@@ -12,4 +12,4 @@ I have a node web application has a need to execute arbitrary python code.
 
 
 ### Submission Guidelines
-1. Start pull request and interviewer to review
+1. Zip the package without the node repo and send via email
