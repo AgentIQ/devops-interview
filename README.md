@@ -3,7 +3,7 @@ I have a node web application has a need to execute arbitrary python code.
 
 ### Goal
 1. Complete Dockerfile so container can be built and run locally
-2. Instructions on how to run container
+2. Instructions on how to run container in the README.md
 3. While running container endpoint GET '/ping' return 200 status. 
 
 ### Dockerfile Requirements
