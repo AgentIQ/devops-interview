@@ -1,5 +1,5 @@
 ## Assignment
-I have a node web application has a need to execute arbitrary python code. 
+I have a node web application has a need to execute arbitrary python code. Use this repository as a starting point.
 
 ### Goal
 1. Complete Dockerfile so container can be built and run locally
@@ -12,4 +12,4 @@ I have a node web application has a need to execute arbitrary python code.
 
 
 ### Submission Guidelines
-1. Zip the package without the node repo and send via email
+1. Zip this repository with solution package without the node repo and send via email.
